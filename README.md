@@ -8,7 +8,7 @@ Jehuty theme for Zed code editor.
 
 [Massinissa Amalou](https://github.com/meastblue)
 
-## Issues
+## Follow me
 [Twitter](https://twitter.com/meastblue)
 [LinkedIn](https://www.linkedin.com/in/massinissa-amalou)
 
